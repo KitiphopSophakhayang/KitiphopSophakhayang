@@ -1,4 +1,4 @@
-[![MasterHead](https://selectasol.co.uk/wp-content/uploads/2024/02/Web-Development.jpg)]
+![MasterHead](https://selectasol.co.uk/wp-content/uploads/2024/02/Web-Development.jpg)
 <h1 align="center">Hi 👋, I'm Kitiphop Sophayang</h1>
 <h3 align="center">"I have a dream of developing myself to become highly skilled and proficient in my current field of work.💻"</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg">
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kitiphop.vercel.app/](https://portfolio-kitiphop.vercel.app/)
 
-- 📫 How to reach me **Kitiphop.sophakhayang@gmail.com**/**085-523-9415
+- 📫 How to reach me **Kitiphop,sophakhayang@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
