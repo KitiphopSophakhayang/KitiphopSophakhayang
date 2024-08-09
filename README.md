@@ -1,4 +1,4 @@
-[![MasterHead](https://selectasol.co.uk/wp-content/uploads/2024/02/Web-Development.jpg)]
+(https://selectasol.co.uk/wp-content/uploads/2024/02/Web-Development.jpg)
 <h1 align="center">Hi 👋, I'm Kitiphop Sophayang</h1>
 <h3 align="center">"I have a dream of developing myself to become highly skilled and proficient in my current field of work.💻"</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg">
