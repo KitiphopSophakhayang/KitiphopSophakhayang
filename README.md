@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kitiphop.vercel.app/](https://portfolio-kitiphop.vercel.app/)
+- 👨‍💻 website portfolio : [https://portfolio-kitiphop.vercel.app/](https://portfolio-kitiphop.vercel.app/)
 
-- 📫 How to reach me **Kitiphop,sophakhayang@gmail.com**
+- 📧 Gmail : **Kitiphop.sophakhayang@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Resume : [https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
