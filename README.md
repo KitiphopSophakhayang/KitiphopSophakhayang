@@ -16,8 +16,6 @@
 - 🔭 Currently building web applications with **Laravel**, **PHP** and **SQL Server**
 - 🌱 Leveling up my skills in back-end development and database design
 - 💬 Ask me about Angular, React, Laravel, PHP, or MySQL / SQL Server
-- 🌐 Portfolio: [portfolio-kitiphop.vercel.app](https://portfolio-kitiphop.vercel.app/)
-- 📄 Resume: [View on Canva](https://www.canva.com/design/DAGLHcD3up0/145f75xGiQGhdDLxhEhFWg/view?utm_content=DAGLHcD3up0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - 📧 Email: **Kitiphop.sophakhayang@gmail.com**
 - 📞 Tel: **085-523-9415**
 
